@@ -1,0 +1,7 @@
+
+To generate the latest API modules in the client project, please run the following commands:
+
+```
+npm run sync:api
+
+```
